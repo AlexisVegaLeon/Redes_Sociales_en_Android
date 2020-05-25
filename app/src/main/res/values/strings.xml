@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Redes_Sociales</string>
+    <string name="facebook_app_id">2771574279728253</string>
+    <string name="fb_login_protocol_scheme">fb2771574279728253</string>
+    <string name="cancel_login">Falló el inicio de sesión</string>
+    <string name="error_login">Hubo un error en el inicio de Sesión</string>
+    <string name="logout">Salir</string>
+</resources>
